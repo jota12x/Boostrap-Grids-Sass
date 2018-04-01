@@ -1,5 +1,5 @@
 # Boostrap-Grids-Sass
-Boostrap Grids behind the scenes using a sass projec
+Boostrap Grids behind the scenes using a sass project
 
 Intructions for running the project:
 
